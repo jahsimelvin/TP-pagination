@@ -1,0 +1,8 @@
+{
+    "name": "melvi/projet-e-commerce",
+    "description": "Un projet e-commerce",
+    "version": "1.0.0",
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
